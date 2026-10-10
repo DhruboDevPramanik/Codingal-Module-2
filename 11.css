@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Shadow Example</title>
+    <style>
+        h1 {
+            text-shadow: 2px 2px 4px gray;
+        }
+
+        p {
+            text-indent: 30px;
+        }
+
+        .box {
+            width: 250px;
+            padding: 20px;
+            background-color: lightblue;
+            box-shadow: 5px 5px 10px gray;
+        }
+    </style>
+</head>
+<body>
+    <h1>CSS Shadow Example</h1>
+
+    <p>This paragraph demonstrates the text-indent property.</p>
+
+    <div class="box">
+        This box demonstrates the box-shadow property.
+    </div>
+</body>
+</html>
+
