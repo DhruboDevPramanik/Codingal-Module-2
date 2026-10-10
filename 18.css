@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Opacity</title>
+    <style>
+        .box {
+            background-color: blue;
+            color: white;
+            padding: 20px;
+            margin: 10px;
+        }
+
+        .transparent {
+            opacity: 0.5;
+        }
+    </style>
+</head>
+<body>
+    <h2>CSS Opacity Property</h2>
+
+    <div class="box">Opacity: 1 (Fully Visible)</div>
+    <div class="box transparent">Opacity: 0.5 (50% Transparent)</div>
+</body>
+</html>
