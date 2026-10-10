@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Hover</title>
+    <style>
+        button {
+            background-color: blue;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+        }
+
+        button:hover {
+            background-color: green;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h2>CSS Hover Example</h2>
+    <button>Hover Over Me</button>
+</body>
+</html>
