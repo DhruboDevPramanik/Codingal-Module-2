@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inline CSS Example</title>
+</head>
+<body>
+
+    <h1 style="color: darkblue; font-family: Arial, sans-serif; text-align: center;">
+        Welcome to My Web Page
+    </h1>
+
+    <p style="color: #333333; font-size: 18px; line-height: 1.6; padding: 15px; background-color: #f4f4f4; border-left: 4px solid #0066cc;">
+        This paragraph is styled using inline CSS directly inside the HTML tag. Inline styles apply rules to a single element.
+    </p>
+
+</body>
+</html>
