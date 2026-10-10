@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Active and Disabled</title>
+    <style>
+        button:active {
+            background-color: green;
+            color: white;
+        }
+
+        button:disabled {
+            background-color: gray;
+            color: white;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+    <h2>CSS Active and Disabled</h2>
+
+    <button>Click Me</button>
+    <button disabled>Disabled Button</button>
+</body>
+</html>
